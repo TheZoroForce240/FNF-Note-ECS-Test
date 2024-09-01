@@ -1,0 +1,111 @@
+{
+    "animations": [
+        {
+            "name": "static0",
+            "prefix": "arrowLEFT0"
+        },
+        {
+            "name": "static1",
+            "prefix": "arrowDOWN0"
+        },
+        {
+            "name": "static2",
+            "prefix": "arrowUP0"
+        },
+        {
+            "name": "static3",
+            "prefix": "arrowRIGHT0"
+        },
+        {
+            "name": "press0",
+            "prefix": "left press0",
+            "looped": false
+        },
+        {
+            "name": "press1",
+            "prefix": "down press0",
+            "looped": false
+        },
+        {
+            "name": "press2",
+            "prefix": "up press0",
+            "looped": false
+        },
+        {
+            "name": "press3",
+            "prefix": "right press0",
+            "looped": false
+        },
+        {
+            "name": "confirm0",
+            "prefix": "left confirm0",
+            "looped": false
+        },
+        {
+            "name": "confirm1",
+            "prefix": "down confirm0",
+            "looped": false
+        },
+        {
+            "name": "confirm2",
+            "prefix": "up confirm0",
+            "looped": false
+        },
+        {
+            "name": "confirm3",
+            "prefix": "right confirm0",
+            "looped": false
+        },
+
+        {
+            "name": "note0",
+            "prefix": "purple0"
+        },
+        {
+            "name": "note1",
+            "prefix": "blue0"
+        },
+        {
+            "name": "note2",
+            "prefix": "green0"
+        },
+        {
+            "name": "note3",
+            "prefix": "red0"
+        },
+
+        {
+            "name": "noteHold0",
+            "prefix": "purple hold piece0"
+        },
+        {
+            "name": "noteHold1",
+            "prefix": "blue hold piece0"
+        },
+        {
+            "name": "noteHold2",
+            "prefix": "green hold piece0"
+        },
+        {
+            "name": "noteHold3",
+            "prefix": "red hold piece0"
+        },
+
+        {
+            "name": "noteHoldEnd0",
+            "prefix": "pruple end hold0"
+        },
+        {
+            "name": "noteHoldEnd1",
+            "prefix": "blue hold end0"
+        },
+        {
+            "name": "noteHoldEnd2",
+            "prefix": "green hold end0"
+        },
+        {
+            "name": "noteHoldEnd3",
+            "prefix": "red hold end0"
+        }
+    ]
+}
